@@ -40,7 +40,7 @@ int main() {
 }
 ```
 
-Program that reads a postfix expression from the user, stores all terms into a stack, computes its value, and returns it to the user. Assume the expression will contain only integers and the following binary arithmetic operators: + (addition), - (subtraction), * (multiplication) and / (division).
+Program that reads a postfix mathmatical expression from the user, stores all terms into a stack, computes its value, and returns it to the user. Assume the expression will contain only integers and the following binary arithmetic operators: + (addition), - (subtraction), * (multiplication) and / (division).
 ```
 #include <iostream>
 #include <stack>
